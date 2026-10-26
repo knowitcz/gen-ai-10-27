@@ -69,3 +69,6 @@ cython_debug/
 # Log files
 logs/
 *.log
+
+# Node
+node_modules/

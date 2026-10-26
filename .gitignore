@@ -19,6 +19,8 @@ venv.bak/
 *.egg
 dist/
 build/
+# The built frontend is committed so the backend can serve it without Node
+!resources/web/dist/
 
 # VS Code settings
 .vscode/
